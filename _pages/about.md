@@ -11,30 +11,24 @@ I am a Ph.D. candidate at Statistics, Seoul National University.
 
 **Seoul National University**, Seoul, South Korea
 
-  M.S. & Ph.D., Statistics, 2021.03 -
+  M.S. & Ph.D., Statistics, 2021.03 --
 
   B.S., Statistics & Computer Science and Engineering, 2015.03 -- 2021.02
 
 ## Research Interest
 
 - Autoencoder based generative models (especially, Wasserstein autoencoders)
-
 - Optimization problems in probability spaces
 
 ## Teaching and Mentoring
 
 - Teaching Assistant, Department of Statistics, Seoul National University
-
     - (Advanced) Computational Statistics
     - Statistical Computing and Lab.
     - Regression Analysis and Lab.
-
 - Teaching Assistant, Statistical Research Institute, Seoul National University
-
     - R, Python public lectures
-
 - Undergraduate Teaching Assistant, Department of Statistics, Seoul National University
-
     - Mathematical Statistics II
 
 ## Honors and Awards
@@ -48,7 +42,6 @@ I am a Ph.D. candidate at Statistics, Seoul National University.
 - Data Science Competitions
     - 2019 Samsung SDS Brightics Academy Competition, 3rd prize
     - 2020 Kakao Arena (Melon Playlist Continuation), 1st prize
-
 - University Students Contest of Mathematics (2019, 2nd field), silver prize
 
 <!--
