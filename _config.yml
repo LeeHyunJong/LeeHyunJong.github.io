@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Hyunjong Lee"
   avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "students of integrated PhD course in statistics at SNU"
-  location         : "Seoul, South Korea"
+  bio              : "Ph.D. candidate in statistics at SNU"
+  location         : "Tokyo, Japan"
   email            :
   links:
     - label: "Email"
